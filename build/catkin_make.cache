@@ -1,0 +1,2 @@
+parm_read
+-DCATKIN_DEVEL_PREFIX=/home/zj/ros_space5/devel -DCMAKE_INSTALL_PREFIX=/home/zj/ros_space5/install -G Unix Makefiles

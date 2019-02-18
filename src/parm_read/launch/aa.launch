@@ -1,0 +1,5 @@
+<launch>
+    <node name="uuu" pkg="parm_read" type="publisher" output="screen">
+        <rosparam command="load" file="$(find parm_read)/config/config.yaml" />
+    </node>
+</launch>

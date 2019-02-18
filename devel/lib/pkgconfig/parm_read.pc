@@ -1,0 +1,8 @@
+prefix=/home/zj/ros_space5/devel
+
+Name: parm_read
+Description: Description of parm_read
+Version: 0.0.0
+Cflags: -I/home/zj/ros_space5/devel/include
+Libs: -L/home/zj/ros_space5/devel/lib 
+Requires: message_runtime

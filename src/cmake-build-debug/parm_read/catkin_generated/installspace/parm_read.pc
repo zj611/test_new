@@ -1,0 +1,8 @@
+prefix=/usr/local
+
+Name: parm_read
+Description: Description of parm_read
+Version: 0.0.0
+Cflags: -I/usr/local/include
+Libs: -L/usr/local/lib 
+Requires: message_runtime
